@@ -78,7 +78,7 @@ main {
   line-height: 0.6;
 }
 
-.blog-container {
+.blog-box {
   padding-top: 50px;
 }
 
@@ -92,6 +92,15 @@ main {
 
 .blog-image {
   height: 180px;
+}
+
+.blog-text {
+  padding-top: 25px;
+  padding-left: 30px;
+}
+
+.blog-text-heading {
+  padding-bottom: 15px;
 }
 
 .blog-date {
